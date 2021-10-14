@@ -1,0 +1,371 @@
+Name,Easting,Northing,Type,Voltage__kV_,BSP_Group,BCA_Group__GSP_
+Albion St (33 kV / 6.6 kV),"367434.0","426087.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Alderley & Chelford (33 kV / 11 kV),"385044.0","379026.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Alston (33 kV / 11 kV),"372125.0","546499.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Ambleside (33 kV / 11 kV),"337602.0","503506.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Ancoats North T11 & T12 (33 kV / 6.6 kV),"385022.0","398830.0",Primary,33 kV / 6.6,Red Bank,Whitegate
+Ancoats North T14 (33 kV / 6.6 kV),"385032.0","398840.0",Primary,33 kV / 6.6,Red Bank,Whitegate
+Annie Pit (33 kV / 11 kV),"300011.0","527810.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Ansdell (33 kV / 6.6 kV),"334416.0","428229.0",Primary,33 kV / 6.6,Lytham,Penwortham 
+Ardwick (33 kV / 6.6 kV),"384753.0","397415.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Arnside (33 kV / 11 kV),"346495.0","478180.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Ashton (Golborne) (33 kV / 6.6 kV),"357056.0","400663.0",Primary,33 kV / 6.6,Orrell,Washway Farm
+Ashton (Ribble) (33 kV / 6.6 kV),"350275.0","430526.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Ashton On Mersey (33 kV / 6.6 kV),"377188.0","392252.0",Primary,33 kV / 6.6,Sale,Carrington
+Ashton Under Lyne T11 & T12 (33 kV / 6.6 kV),"393275.0","399319.0",Primary,33 kV / 6.6,Hartshead-Heyrod,Stalybridge
+Ashton Under Lyne T13 (33 kV / 6.6 kV),"393285.0","399329.0",Primary,33 kV / 6.6,Hartshead-Heyrod,Stalybridge
+Ashwood Dale (33 kV / 6.6 kV),"406537.0","373050.0",Primary,33 kV / 6.6,Buxton,Stalybridge
+Askam & Dalton (33 kV / 11 kV),"321558.0","477806.0",Primary,33 kV / 11,Ulverston,Harker
+Askerton Castle (33 kV / 11 kV),"354779.0","568913.0",Primary,33 kV / 11,"-",Harker
+Aspatria (33 kV / 11 kV),"314417.0","542840.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Atherton Town Centre (33 kV / 11 kV),"367546.0","403338.0",Primary,33 kV / 11,Atherton,Kearsley
+Athletic St (33 kV / 6.6 kV),"385381.0","432208.0",Primary,33 kV / 6.6,Burnley,Rochdale
+Avenham (33 kV / 6.6 kV),"354028.0","429192.0",Primary,33 kV / 6.6,Preston East,Penwortham 
+Baguley (33 kV / 11 kV),"380562.0","389035.0",Primary,33 kV / 11,Sale,Carrington
+Bamber Bridge (33 kV / 11 kV),"356431.0","426698.0",Primary,33 kV / 11,Ribble,Penwortham 
+Barbara St (33 kV / 6.6 kV),"370695.0","407609.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Barrow (33 kV / 11 kV),"319709.0","470489.0",Primary,33 kV / 11,Barrow & Sandgate,Harker
+Barton Dock Rd (33 kV / 6.6 kV),"378864.0","395534.0",Primary,33 kV / 6.6,Barton,Carrington
+Bedford (33 kV / 11 kV),"366258.0","399876.0",Primary,33 kV / 11,Atherton,Kearsley
+Belgrave (33 kV / 6.6 kV),"393008.0","403366.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+Benchill (33 kV / 11 kV),"382454.0","388020.0",Primary,33 kV / 11,West Didsbury,South Manchester
+Bentham (33 kV / 11 kV),"366887.0","470130.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Bispham (33 kV / 6.6 kV),"331655.0","439667.0",Primary,33 kV / 6.6,Bispham,Penwortham 
+Blackbull (33 kV / 6.6 kV),"353041.0","433005.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Blackburn (33 kV / 6.6 kV),"370584.0","429294.0",Primary,33 kV / 6.6,Blackburn,Penwortham 
+Blackfriars (33 kV / 6.6 kV),"383030.0","399104.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Blackley (33 kV / 6.6 kV),"383882.0","403258.0",Primary,33 kV / 6.6,Red Bank,Whitegate
+Blackpool (33 kV / 6.6 kV),"330835.0","435308.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+Bollington (33 kV / 11 kV),"393042.0","377873.0",Primary,33 kV / 11,Macclesfield,Macclesfield
+Bolton By Bowland (33 kV / 11 kV),"378320.0","449559.0",Primary,33 kV / 11,Padiham,Padiham
+Bolton Le Sands (33 kV / 11 kV),"347707.0","467237.0",Primary,33 kV / 11,Lancaster,Heysham
+Botany Bay (33 kV / 11 kV),"359442.0","418850.0",Primary,33 kV / 11,Leyland,Penwortham 
+Bow Lane (33 kV / 11 kV),"354895.0","422392.0",Primary,33 kV / 11,Leyland,Penwortham 
+Bowaters (33 kV / 11 kV),"319579.0","472480.0",Primary,33 kV / 11,Barrow & Sandgate,Harker
+Bowdon (33 kV / 11 kV),"376743.0","386810.0",Primary,33 kV / 11,Altrincham,Carrington
+Bradford (33 kV / 6.6 kV),"387613.0","397710.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Bradshawgate (33 kV / 6.6 kV),"371891.0","408910.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Bramhall (33 kV / 11 kV),"389440.0","386463.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Bridgewater (33 kV / 6.6 kV),"383543.0","397628.0",Primary,33 kV / 6.6,Bloom St,South Manchester
+Brinksway (33 kV / 6.6 kV),"388434.0","389885.0",Primary,33 kV / 6.6,Adswood,Bredbury
+Broadheath (33 kV / 11 kV),"376412.0","389026.0",Primary,33 kV / 11,Altrincham,Carrington
+Broadway (33 kV / 6.6 kV),"344792.0","464471.0",Primary,33 kV / 6.6,Lancaster,Heysham
+Buckshaw (33 kV / 11 kV),"356748.0","421312.0",Primary,33 kV / 11,Leyland,Penwortham 
+Burnley (33 kV / 6.6 kV),"385569.0","434469.0",Primary,33 kV / 6.6,Burnley,Rochdale
+Burnley Centre (33 kV / 6.6 kV),"384308.0","432288.0",Primary,33 kV / 6.6,Burnley,Rochdale
+Burnley North (33 kV / 6.6 kV),"384418.0","434168.0",Primary,33 kV / 6.6,Burnley,Rochdale
+Burrow Beck (33 kV / 11 kV),"347903.0","458401.0",Primary,33 kV / 11,Lancaster,Heysham
+Burscough Bridge (33 kV / 11 kV),"344595.0","412486.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Bury Town Centre (33 kV / 6.6 kV),"380863.0","410807.0",Primary,33 kV / 6.6,Bury,Kearsley
+Craggs Row & Bushell St (33 kV / 6.6 kV),"353809.0","430094.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Campbell St (33 kV / 11 kV),"372937.0","406428.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Cannon St (33 kV / 6.6 kV),"384064.0","398635.0",Primary,33 kV / 6.6,Red Bank,Whitegate
+Capontree (33 kV / 11 kV),"352906.0","559671.0",Primary,33 kV / 11,Carlisle,Harker
+Carleton (33 kV / 11 kV),"308796.0","498305.0",Primary,33 kV / 11,Egremont,Harker
+Carlisle North (33 kV / 11 kV),"338547.0","560280.0",Primary,33 kV / 11,"-",Harker
+Carr St (33 kV / 11 kV),"376984.0","401329.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Castleton (33 kV / 6.6 kV),"388461.0","411290.0",Primary,33 kV / 6.6,Castleton,Rochdale
+Catterall Waterworks (33 kV / 6.6 kV),"349381.0","442178.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Cecil St (33 kV / 6.6 kV),"331301.0","437023.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+Central Manchester (33 kV / 6.6 kV),"384852.0","397718.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Chadderton (33 kV / 6.6 kV),"389161.0","403872.0",Primary,33 kV / 6.6,Chadderton,Whitegate
+Chamberhall (33 kV / 6.6 kV),"380280.0","411215.0",Primary,33 kV / 6.6,Bury,Kearsley
+Chapel Wharf (33 kV / 6.6 kV),"383499.0","398634.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Chassen Rd (33 kV / 6.6 kV),"375542.0","394453.0",Primary,33 kV / 6.6,Barton,Carrington
+Chatsworth St (33 kV / 11 kV),"319188.0","470003.0",Primary,33 kV / 11,Barrow & Sandgate,Harker
+Cheadle Heath (33 kV / 6.6 kV),"387062.0","389054.0",Primary,33 kV / 6.6,Adswood,Bredbury
+Cheadle Hulme (33 kV / 11 kV),"387386.0","386308.0",Primary,33 kV / 11,Adswood,Bredbury
+Cheetham Hill (33 kV / 6.6 kV),"383606.0","402218.0",Primary,33 kV / 6.6,Agecroft,Kearsley
+Alderley & Chelford (33 kV / 11 kV),"382184.0","373490.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Chester Rd T11 & T12 (33 kV / 6.6 kV),"381030.0","396165.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Chester Rd T13 (33 kV / 6.6 kV),"381040.0","396175.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Chorley South (33 kV / 11 kV),"358658.0","417041.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Chorlton (33 kV / 6.6 kV),"381411.0","393754.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Church (33 kV / 6.6 kV),"374687.0","428919.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Clarendon Rd (33 kV / 6.6 kV),"369051.0","429883.0",Primary,33 kV / 6.6,Blackburn,Penwortham 
+Claughton (33 kV / 11 kV),"355872.0","466268.0",Primary,33 kV / 11,Lancaster,Heysham
+Blackburn Rd Clayton (33 kV / 6.6 kV),"374632.0","430529.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Cleveleys (33 kV / 6.6 kV),"332286.0","443104.0",Primary,33 kV / 6.6,Bispham,Penwortham 
+Clifton Junction (33 kV / 11 kV),"379289.0","403073.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Clover Hill (33 kV / 6.6 kV),"386638.0","437064.0",Primary,33 kV / 6.6,Nelson,Padiham
+Cog Lane (33 kV / 6.6 kV),"382462.0","432232.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Coniston (33 kV / 11 kV),"329874.0","497641.0",Primary,33 kV / 11,Ulverston,Harker
+Copse Rd (33 kV / 6.6 kV),"333013.0","446934.0",Primary,33 kV / 6.6,Thornton,Stanah
+Cox Green (33 kV / 11 kV),"371893.0","413641.0",Primary,33 kV / 11,Bolton,Kearsley
+Craggs Row & Bushell St (33 kV / 6.6 kV),"353740.0","430080.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Crown Lane (33 kV / 11 kV),"362706.0","410859.0",Primary,33 kV / 11,Westhoughton,Kearsley
+Culcheth (33 kV / 11 kV),"365430.0","395366.0",Primary,33 kV / 11,Golborne,Bold
+Cutacre (33 kV / 11 kV),"369848.0","404515.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Askam & Dalton (33 kV / 11 kV),"323582.0","474255.0",Primary,33 kV / 11,Ulverston,Harker
+Deansgate (33 kV / 6.6 kV),"383463.0","398149.0",Primary,33 kV / 6.6,Bloom St,South Manchester
+Denton East (33 kV / 6.6 kV),"392394.0","395626.0",Primary,33 kV / 6.6,Droylsden,Stalybridge
+Denton West (33 kV / 6.6 kV),"390380.0","395565.0",Primary,33 kV / 6.6,Droylsden,Stalybridge
+Dickinson St (33 kV / 6.6 kV),"384109.0","397722.0",Primary,33 kV / 6.6,Bloom St,South Manchester
+Didsbury (33 kV / 6.6 kV),"384792.0","391153.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Dodgson Rd (33 kV / 6.6 kV),"355190.0","430397.0",Primary,33 kV / 6.6,Preston East,Penwortham 
+Douglas St (33 kV / 6.6 kV),"352220.0","429932.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Droylsden East (33 kV / 6.6 kV),"390532.0","398053.0",Primary,33 kV / 6.6,Droylsden,Stalybridge
+Dukinfield (33 kV / 6.6 kV),"394372.0","396438.0",Primary,33 kV / 6.6,Hyde,Stalybridge
+Dumers Lane (33 kV / 11 kV),"380057.0","408141.0",Primary,33 kV / 11,Bury,Kearsley
+Dumplington (33 kV / 11 kV),"376770.0","397157.0",Primary,33 kV / 11,Barton,Carrington
+Eastlands (33 kV / 6.6 kV),"386458.0","398693.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Easton (33 kV / 11 kV),"343201.0","571738.0",Primary,33 kV / 11,"-",Harker
+Egremont (33 kV / 11 kV),"301070.0","513074.0",Primary,33 kV / 11,Egremont,Harker
+Embleton (33 kV / 11 kV),"315767.0","529389.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Exchange St (33 kV / 6.6 kV),"369100.0","423028.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Failsworth (33 kV / 6.6 kV),"389631.0","401496.0",Primary,33 kV / 6.6,Chadderton,Whitegate
+Fallowfield (33 kV / 6.6 kV),"385608.0","393881.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Farnworth (33 kV / 11 kV),"373726.0","405532.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Feniscowles (33 kV / 6.6 kV),"364660.0","425120.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Ferodo (33 kV / 11 kV),"405720.0","381338.0",Primary,33 kV / 11,New Mills,Stalybridge
+Flat Lane (33 kV / 11 kV),"383248.0","456995.0",Primary,33 kV / 11,Nelson,Padiham
+Frederick Rd (33 kV / 6.6 kV),"381697.0","399348.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Fusehill (33 kV / 11 kV),"341042.0","555452.0",Primary,33 kV / 11,Carlisle,Harker
+Gale (33 kV / 6.6 kV),"389570.0","414943.0",Primary,33 kV / 6.6,Belfield,Rochdale
+Garstang (33 kV / 6.6 kV),"348319.0","445221.0",Primary,33 kV / 6.6,Thornton,Stanah
+Gatley (33 kV / 6.6 kV),"384242.0","388388.0",Primary,33 kV / 6.6,Moss Nook,South Manchester
+Gidlow (33 kV / 6.6 kV),"357620.0","406662.0",Primary,33 kV / 6.6,Wigan,Kirkby
+Gillsrow (33 kV / 11 kV),"337117.0","526444.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Glaxo (33 kV / 11 kV),"330458.0","477825.0",Primary,33 kV / 11,Ulverston,Harker
+Glossop (33 kV / 11 kV),"402300.0","394074.0",Primary,33 kV / 11,Hyde,Stalybridge
+Golborne (33 kV / 11 kV),"360621.0","397766.0",Primary,33 kV / 11,Golborne,Bold
+Gowhole (33 kV / 11 kV),"401104.0","383846.0",Primary,33 kV / 11,New Mills,Stalybridge
+Grane Rd & Prinny Hill (33 kV / 6.6 kV),"378312.0","422726.0",Primary,33 kV / 6.6,Rossendale,Padiham
+Grange (33 kV / 11 kV),"340240.0","478314.0",Primary,33 kV / 11,Ulverston,Harker
+Great Harwood (33 kV / 6.6 kV),"373765.0","431955.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Green Lane (Altrincham) (33 kV / 11 kV),"378744.0","387772.0",Primary,33 kV / 11,Altrincham,Carrington
+Green Lane (Hazel Grove) (33 kV / 11 kV),"391570.0","387132.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Green St T11 (33 kV / 6.6 kV),"358235.0","404898.0",Primary,33 kV / 6.6,Wigan,Kirkby
+Green St T12 & T13 (33 kV / 6.6 kV),"358225.0","404888.0",Primary,33 kV / 6.6,Wigan,Kirkby
+Greenfield (33 kV / 11 kV),"399322.0","404583.0",Primary,33 kV / 11,Hartshead-Heyrod,Stalybridge
+Greenhill (33 kV / 6.6 kV),"393262.0","404755.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+Griffin (33 kV / 6.6 kV),"367171.0","427130.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Hadfield (33 kV / 11 kV),"401790.0","395876.0",Primary,33 kV / 11,Hyde,Stalybridge
+Hall Cross (33 kV / 6.6 kV),"342288.0","430650.0",Primary,33 kV / 6.6,Peel,Penwortham 
+Handforth (33 kV / 11 kV),"385958.0","383397.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Hanging Bridge (33 kV / 11 kV),"346186.0","417486.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Hareholme (33 kV / 6.6 kV),"382535.0","422283.0",Primary,33 kV / 6.6,Rossendale,Padiham
+Harpurhey (33 kV / 6.6 kV),"385907.0","402469.0",Primary,33 kV / 6.6,Red Bank,Whitegate
+Harwood (33 kV / 11 kV),"374043.0","410941.0",Primary,33 kV / 11,Bolton,Kearsley
+Hattersley (33 kV / 11 kV),"398419.0","395120.0",Primary,33 kV / 11,Hyde,Stalybridge
+Haverthwaite (33 kV / 11 kV),"334234.0","483827.0",Primary,33 kV / 11,Ulverston,Harker
+Hawk Green (33 kV / 11 kV),"395915.0","387138.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Haydock (33 kV / 11 kV),"357489.0","397336.0",Primary,33 kV / 11,Golborne,Bold
+Hda No1 & Hda No2 (33 kV / 11 kV),"301743.0","524532.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Hda No1 & Hda No2 (33 kV / 11 kV),"301429.0","525527.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Heady Hill (33 kV / 6.6 kV),"384370.0","410583.0",Primary,33 kV / 6.6,Castleton,Rochdale
+Heap Bridge (33 kV / 6.6 kV),"382793.0","410428.0",Primary,33 kV / 6.6,Bury,Kearsley
+Heasandford (33 kV / 6.6 kV),"385349.0","433821.0",Primary,33 kV / 6.6,Burnley,Rochdale
+Heaton Moor (33 kV / 6.6 kV),"387623.0","391345.0",Primary,33 kV / 6.6,Vernon Park,Bredbury
+Heaton Norris (33 kV / 6.6 kV),"388860.0","391967.0",Primary,33 kV / 6.6,Vernon Park,Bredbury
+Helwith Bridge (33 kV / 11 kV),"381025.0","469428.0",Primary,33 kV / 11,Padiham,Padiham
+Hensingham (33 kV / 11 kV),"298465.0","517239.0",Primary,33 kV / 11,Egremont,Harker
+Heyrod (33 kV / 6.6 kV),"397310.0","399981.0",Primary,33 kV / 6.6,Hartshead-Heyrod,Stalybridge
+Heyside (33 kV / 6.6 kV),"393433.0","407129.0",Primary,33 kV / 6.6,Royton,Whitegate
+Heywood (33 kV / 6.6 kV),"385429.0","410369.0",Primary,33 kV / 6.6,Castleton,Rochdale
+Higher Mill (33 kV / 6.6 kV),"385731.0","388090.0",Primary,33 kV / 6.6,Moss Nook,South Manchester
+Higher Walton (33 kV / 11 kV),"358020.0","427270.0",Primary,33 kV / 11,Leyland,Penwortham 
+Hill Top T11 & T12 (33 kV / 11 kV),"373466.0","403748.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Hill Top T13 (33 kV / 11 kV),"373476.0","403758.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Hindley Green (33 kV / 11 kV),"363389.0","403254.0",Primary,33 kV / 11,Atherton,Kearsley
+Hollinwood (33 kV / 6.6 kV),"390287.0","402592.0",Primary,33 kV / 6.6,Chadderton,Whitegate
+Holme Rd (33 kV / 11 kV),"352311.0","429141.0",Primary,33 kV / 11,Ribble,Penwortham 
+Holt St (33 kV / 11 kV),"378620.0","416362.0",Primary,33 kV / 11,Bury,Kearsley
+Hurst (33 kV / 6.6 kV),"394658.0","400360.0",Primary,33 kV / 6.6,Hartshead-Heyrod,Stalybridge
+Hutton End & Skelton C (33 kV / 11 kV),"345810.0","538827.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Hyde (33 kV / 6.6 kV),"395215.0","395126.0",Primary,33 kV / 6.6,Hyde,Stalybridge
+Hyndburn Rd (33 kV / 6.6 kV),"375688.0","428877.0",Primary,33 kV / 6.6,Huncoat,Padiham
+India St (33 kV / 6.6 kV),"369485.0","421865.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Ingleton (33 kV / 11 kV),"368913.0","472337.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Irlam (33 kV / 6.6 kV),"371680.0","393360.0",Primary,33 kV / 6.6,Carrington Bsp,Carrington
+James St (33 kV / 11 kV),"340034.0","555418.0",Primary,33 kV / 11,Carlisle,Harker
+Kay St (33 kV / 6.6 kV),"373863.0","427594.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Kendal (33 kV / 11 kV),"351915.0","491858.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Keswick (33 kV / 11 kV),"327022.0","523784.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Kingsway (33 kV / 11 kV),"391636.0","411724.0",Primary,33 kV / 11,Belfield,Rochdale
+Kinkry Hill (33 kV / 11 kV),"350800.0","575111.0",Primary,33 kV / 11,"-",Harker
+Kirkby Lonsdale (33 kV / 11 kV),"359833.0","478813.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Kirkby Moor (33 kV / 11 kV),"326099.0","483011.0",Primary,33 kV / 11,Ulverston,Harker
+Kirkby Stephen (33 kV / 11 kV),"376579.0","509136.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Kirkby Thore (33 kV / 11 kV),"364439.0","526672.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Kirkhall Lane (33 kV / 11 kV),"365510.0","401069.0",Primary,33 kV / 11,Atherton,Kearsley
+Kitt Green (33 kV / 6.6 kV),"354934.0","405497.0",Primary,33 kV / 6.6,Orrell,Kirkby
+Knott Mill (33 kV / 6.6 kV),"383136.0","397725.0",Primary,33 kV / 6.6,Bloom St,South Manchester
+Lamberhead (33 kV / 6.6 kV),"355516.0","404030.0",Primary,33 kV / 6.6,Orrell,Kirkby
+Lancaster (33 kV / 11 kV),"348644.0","463628.0",Primary,33 kV / 11,Lancaster,Heysham
+Langley (33 kV / 11 kV),"386421.0","406330.0",Primary,33 kV / 11,Chadderton,Whitegate
+Langroyd Rd (33 kV / 6.6 kV),"389077.0","440584.0",Primary,33 kV / 6.6,Nelson,Padiham
+Leigh (33 kV / 11 kV),"365863.0","399907.0",Primary,33 kV / 11,Atherton,Kearsley
+Levenshulme (33 kV / 6.6 kV),"387494.0","394155.0",Primary,33 kV / 6.6,Longsight,Bredbury
+Leyland National (33 kV / 11 kV),"301973.0","525948.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Little Hulton (33 kV / 11 kV),"372024.0","403826.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Little Salkeld (33 kV / 11 kV),"356221.0","537513.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Littleborough (33 kV / 6.6 kV),"393221.0","416124.0",Primary,33 kV / 6.6,Belfield,Rochdale
+Longford Bridge (33 kV / 6.6 kV),"380056.0","395083.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Longridge (33 kV / 6.6 kV),"360581.0","437001.0",Primary,33 kV / 6.6,Preston East,Penwortham 
+Longsight (33 kV / 6.6 kV),"385535.0","396037.0",Primary,33 kV / 6.6,Longsight,Bredbury
+Lostock (33 kV / 11 kV),"365293.0","409079.0",Primary,33 kV / 11,Westhoughton,Kearsley
+Lower Darwen (33 kV / 6.6 kV),"369695.0","424981.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Lyons Rd (33 kV / 6.6 kV),"378253.0","397241.0",Primary,33 kV / 6.6,Barton,Carrington
+Manchester University (33 kV / 6.6 kV),"384762.0","396769.0",Primary,33 kV / 6.6,Longsight,Bredbury
+Marple (33 kV / 11 kV),"395671.0","388643.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Marton (33 kV / 6.6 kV),"333341.0","433485.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+Maryport (33 kV / 11 kV),"303716.0","535313.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Melling (33 kV / 11 kV),"360144.0","471643.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Mereside (33 kV / 6.6 kV),"334431.0","434843.0",Primary,33 kV / 6.6,Peel,Penwortham 
+Middleton Junction (33 kV / 11 kV),"388606.0","405292.0",Primary,33 kV / 11,Chadderton,Whitegate
+Midway (33 kV / 11 kV),"304525.0","501993.0",Primary,33 kV / 11,Egremont,Harker
+Milnrow (33 kV / 6.6 kV),"392351.0","413056.0",Primary,33 kV / 6.6,Castleton,Rochdale
+Mintsfeet (33 kV / 11 kV),"351827.0","494315.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Monsall (33 kV / 6.6 kV),"386332.0","401003.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Monton (33 kV / 6.6 kV),"376321.0","399494.0",Primary,33 kV / 6.6,Barton,Carrington
+Moorside (33 kV / 6.6 kV),"349331.0","435746.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Morton Park & Pirelli (33 kV / 11 kV),"337826.0","553939.0",Primary,33 kV / 11,Carlisle,Harker
+Mosley Rd (33 kV / 6.6 kV),"379058.0","396289.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Moss Lane (33 kV / 11 kV),"380858.0","405856.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Moss Nook Primary (33 kV / 11 kV),"384084.0","385010.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Moss Side (Leyland) & Seven Stars (33 kV / 11 kV),"352170.0","422970.0",Primary,33 kV / 11,Leyland,Penwortham 
+Moss Side (Longsight) (33 kV / 6.6 kV),"384007.0","395893.0",Primary,33 kV / 6.6,Longsight,Bredbury
+Mossley (33 kV / 11 kV),"397437.0","401979.0",Primary,33 kV / 11,Hartshead-Heyrod,Stalybridge
+Mount St (33 kV / 6.6 kV),"376250.0","397574.0",Primary,33 kV / 6.6,Barton,Carrington
+Musgrave Rd (33 kV / 6.6 kV),"370045.0","409863.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Nelson (33 kV / 6.6 kV),"386020.0","438507.0",Primary,33 kV / 6.6,Nelson,Padiham
+New Moston (33 kV / 6.6 kV),"388333.0","402657.0",Primary,33 kV / 6.6,Chadderton,Whitegate
+Newbiggin On Lune (33 kV / 11 kV),"369770.0","505803.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Newby (33 kV / 11 kV),"360520.0","521151.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Newton (33 kV / 11 kV),"396385.0","396464.0",Primary,33 kV / 11,Hyde,Stalybridge
+Newton Heath (33 kV / 6.6 kV),"388030.0","400511.0",Primary,33 kV / 6.6,Chadderton,Whitegate
+Newton Le Willows (33 kV / 11 kV),"357891.0","395944.0",Primary,33 kV / 11,Golborne,Bold
+Newtongate T11 & T12 (33 kV / 11 kV),"349973.0","530340.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Newtongate T13 (33 kV / 11 kV),"349973.0","530340.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Norbreck (33 kV / 6.6 kV),"331831.0","441463.0",Primary,33 kV / 6.6,Bispham,Penwortham 
+Norbury (33 kV / 11 kV),"392447.0","385492.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Northenden (33 kV / 6.6 kV),"382555.0","390327.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Nwgb Partington (33 kV / 6.6 kV),"372569.0","392079.0",Primary,33 kV / 6.6,Carrington Bsp,Carrington
+Offerton (33 kV / 6.6 kV),"391010.0","389489.0",Primary,33 kV / 6.6,Vernon Park,Bredbury
+Openshaw (33 kV / 6.6 kV),"388606.0","397346.0",Primary,33 kV / 6.6,Droylsden,Stalybridge
+Ormskirk (33 kV / 11 kV),"341294.0","408158.0",Primary,33 kV / 11,Skelmersdale,Washway Farm
+Padiham (33 kV / 11 kV),"378428.0","433238.0",Primary,33 kV / 11,Padiham,Padiham
+Peel St & Ribblesdale T13 (33 kV / 11 kV),"374463.0","441514.0",Primary,33 kV / 11,Padiham,Padiham
+Pendleton (33 kV / 6.6 kV),"381161.0","398842.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Petteril Bank (33 kV / 11 kV),"341768.0","553686.0",Primary,33 kV / 11,Carlisle,Harker
+Phillips Lane (33 kV / 6.6 kV),"387571.0","439522.0",Primary,33 kV / 6.6,Nelson,Padiham
+Piccadilly (33 kV / 6.6 kV),"384427.0","398261.0",Primary,33 kV / 6.6,Bloom St,South Manchester
+Pimbo (33 kV / 11 kV),"349148.0","404549.0",Primary,33 kV / 11,Skelmersdale,Washway Farm
+Morton Park & Pirelli (33 kV / 11 kV),"339059.0","553548.0",Primary,33 kV / 11,Carlisle,Harker
+Portwood (33 kV / 6.6 kV),"389826.0","390619.0",Primary,33 kV / 6.6,Vernon Park,Bredbury
+Poulton (33 kV / 6.6 kV),"335679.0","439130.0",Primary,33 kV / 6.6,Bispham,Penwortham 
+Poynton (33 kV / 11 kV),"392096.0","383493.0",Primary,33 kV / 11,Hazel Grove,Bredbury
+Preesall (33 kV / 11 kV),"336965.0","446547.0",Primary,33 kV / 11,Thornton,Stanah
+Preston East (33 kV / 6.6 kV),"356777.0","432926.0",Primary,33 kV / 6.6,Preston East,Penwortham 
+Preston Old Rd (33 kV / 6.6 kV),"332562.0","434929.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+Prestwich (33 kV / 6.6 kV),"381392.0","404001.0",Primary,33 kV / 6.6,Agecroft,Kearsley
+Pringle St (33 kV / 6.6 kV),"369088.0","427387.0",Primary,33 kV / 6.6,Blackburn,Penwortham 
+Grane Rd & Prinny Hill (33 kV / 6.6 kV),"378328.0","423395.0",Primary,33 kV / 6.6,Rossendale,Padiham
+Queens Park (33 kV / 6.6 kV),"385893.0","400645.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Radcliffe (33 kV / 11 kV),"377524.0","406160.0",Primary,33 kV / 11,"-",Kearsley
+Randal St (33 kV / 6.6 kV),"368092.0","428515.0",Primary,33 kV / 6.6,Blackburn,Penwortham 
+Rawtenstall Rd (33 kV / 6.6 kV),"379395.0","422143.0",Primary,33 kV / 6.6,Rossendale,Padiham
+Reddish Vale (33 kV / 6.6 kV),"390147.0","393309.0",Primary,33 kV / 6.6,Vernon Park,Bredbury
+Ribblesdale T14 (33 kV / 11 kV),"374759.0","443587.0",Primary,33 kV / 11,Padiham,Padiham
+Ribbleton (33 kV / 6.6 kV),"356730.0","431506.0",Primary,33 kV / 6.6,Preston East,Penwortham 
+Ringley (33 kV / 11 kV),"376120.0","405531.0",Primary,33 kV / 11,Kearsley Local,Kearsley
+Risley (33 kV / 11 kV),"365181.0","392989.0",Primary,33 kV / 11,"-",Bold
+Robert Hall St (33 kV / 6.6 kV),"381359.0","397718.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Rochdale Central (33 kV / 6.6 kV),"389111.0","413393.0",Primary,33 kV / 6.6,Rochdale Central,Rochdale
+Roman Rd (33 kV / 6.6 kV),"369058.0","426505.0",Primary,33 kV / 6.6,Lower Darwen,Rochdale
+Romiley (33 kV / 11 kV),"393626.0","390716.0",Primary,33 kV / 11,Vernon Park,Bredbury
+Rossall (33 kV / 6.6 kV),"331916.0","445505.0",Primary,33 kV / 6.6,Thornton,Stanah
+Royton (33 kV / 6.6 kV),"392426.0","407533.0",Primary,33 kV / 6.6,Royton,Whitegate
+Sale (33 kV / 6.6 kV),"378952.0","392177.0",Primary,33 kV / 6.6,Sale,Carrington
+Sale Moor (33 kV / 6.6 kV),"379671.0","391133.0",Primary,33 kV / 6.6,Sale,Carrington
+Salford Quays (33 kV / 6.6 kV),"380334.0","397555.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Sandgate (33 kV / 11 kV),"321492.0","468870.0",Primary,33 kV / 11,Barrow & Sandgate,Harker
+Scarisbrick (33 kV / 11 kV),"338069.0","412086.0",Primary,33 kV / 11,Skelmersdale,Washway Farm
+Sebergham (33 kV / 11 kV),"335344.0","542653.0",Primary,33 kV / 11,Carlisle,Harker
+Sedbergh (33 kV / 11 kV),"365151.0","491747.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Selsmire (33 kV / 11 kV),"361018.0","507505.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Settle (33 kV / 11 kV),"381588.0","463721.0",Primary,33 kV / 11,Padiham,Padiham
+Moss Side (Leyland) & Seven Stars (33 kV / 11 kV),"352653.0","421636.0",Primary,33 kV / 11,Leyland,Penwortham 
+Shannon St South (33 kV / 6.6 kV),"330806.0","435291.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+Shap (33 kV / 11 kV),"356910.0","513357.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Shaw (33 kV / 6.6 kV),"394298.0","409450.0",Primary,33 kV / 6.6,Royton,Whitegate
+Siddick (33 kV / 11 kV),"300289.0","530805.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Silloth (33 kV / 11 kV),"311307.0","553464.0",Primary,33 kV / 11,Carlisle,Harker
+Skelmersdale (33 kV / 11 kV),"347198.0","407434.0",Primary,33 kV / 11,Skelmersdale,Washway Farm
+Hutton End & Skelton C (33 kV / 11 kV),"342672.0","538337.0",Primary,33 kV / 11,Penrith & Shap,Hutton
+Slipway (33 kV / 11 kV),"297180.0","518183.0",Primary,33 kV / 11,Egremont,Harker
+Snipe (33 kV / 6.6 kV),"391844.0","398322.0",Primary,33 kV / 6.6,Droylsden,Stalybridge
+S.E. Macclesfield (33 kV / 11 kV),"392001.0","372504.0",Primary,33 kV / 11,Macclesfield,Macclesfield
+South Park (33 kV / 11 kV),"336410.0","427512.0",Primary,33 kV / 11,Lytham,Penwortham 
+S.W. Macclesfield (33 kV / 11 kV),"390968.0","373004.0",Primary,33 kV / 11,Macclesfield,Macclesfield
+Spa Rd (33 kV / 6.6 kV),"371065.0","409109.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Spadeadam 132/11Kv (33 kV / 11 kV),"361282.0","570359.0",Primary,33 kV / 11,"-",Harker
+Spotland (33 kV / 6.6 kV),"387882.0","414309.0",Primary,33 kV / 6.6,Rochdale Central,Rochdale
+Spring Cottage (33 kV / 6.6 kV),"385446.0","437481.0",Primary,33 kV / 6.6,Nelson,Padiham
+Spring Garden St 11Kv (33 kV / 11 kV),"347661.0","461494.0",Primary,33 kV / 11,Lancaster,Heysham
+Spring Garden St 6.6Kv (33 kV / 6.6 kV),"347651.0","461484.0",Primary,33 kV / 6.6,Lancaster,Heysham
+Squires Gate (33 kV / 6.6 kV),"332037.0","432063.0",Primary,33 kV / 6.6,Blackpool,Penwortham 
+St Annes (33 kV / 6.6 kV),"331716.0","429849.0",Primary,33 kV / 6.6,Lytham,Penwortham 
+St Marys (33 kV / 6.6 kV),"392582.0","405316.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+St Marys St (33 kV / 6.6 kV),"354932.0","429640.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+St Thomas Rd (33 kV / 6.6 kV),"332713.0","428643.0",Primary,33 kV / 6.6,Lytham,Penwortham 
+Stainburn (33 kV / 11 kV),"302535.0","529330.0",Primary,33 kV / 11,Stainburn & Siddick,Harker
+Standish (33 kV / 11 kV),"356139.0","410059.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Strangeways (33 kV / 6.6 kV),"383780.0","399743.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Strawberry Bank (33 kV / 6.6 kV),"376338.0","429396.0",Primary,33 kV / 6.6,Huncoat,Padiham
+Stuart St (33 kV / 6.6 kV),"387190.0","398835.0",Primary,33 kV / 6.6,Stuart St,Stalybridge
+Stubbins (33 kV / 11 kV),"379112.0","418005.0",Primary,33 kV / 11,Rossendale,Padiham
+Swinton (33 kV / 11 kV),"378367.0","401718.0",Primary,33 kV / 11,Agecroft,Kearsley
+Tame Valley (33 kV / 6.6 kV),"395148.0","398108.0",Primary,33 kV / 6.6,Hartshead-Heyrod,Stalybridge
+Tardy Gate (33 kV / 11 kV),"353958.0","426066.0",Primary,33 kV / 11,Ribble,Penwortham 
+Tarleton (33 kV / 11 kV),"344741.0","422417.0",Primary,33 kV / 11,Wrightington,Penwortham 
+The Height (33 kV / 6.6 kV),"379792.0","400497.0",Primary,33 kV / 6.6,Agecroft,Kearsley
+Thornton (33 kV / 11 kV),"334207.0","442111.0",Primary,33 kV / 11,Bispham,Penwortham 
+Townley St (33 kV / 11 kV),"387242.0","405960.0",Primary,33 kV / 11,Chadderton,Whitegate
+Trafford (33 kV / 6.6 kV),"380714.0","396551.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Trafford Park North (33 kV / 6.6 kV),"378738.0","397694.0",Primary,33 kV / 6.6,Barton,Carrington
+Trimpell (33 kV / 11 kV),"341861.0","458979.0",Primary,33 kV / 11,"-",Heysham
+Trinity (33 kV / 6.6 kV),"382649.0","398230.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Tulketh (33 kV / 6.6 kV),"352393.0","431036.0",Primary,33 kV / 6.6,Ribble,Penwortham 
+Ulverston (33 kV / 11 kV),"327495.0","477808.0",Primary,33 kV / 11,Ulverston,Harker
+Union Rd (33 kV / 6.6 kV),"372174.0","410598.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Upholland (33 kV / 11 kV),"352531.0","404369.0",Primary,33 kV / 11,Orrell,Kirkby
+Urmston (33 kV / 6.6 kV),"377117.0","395709.0",Primary,33 kV / 6.6,Stretford,South Manchester
+Victoria Park (33 kV / 6.6 kV),"385373.0","395948.0",Primary,33 kV / 6.6,Longsight,Bredbury
+Warbreck (33 kV / 6.6 kV),"331775.0","438420.0",Primary,33 kV / 6.6,Bispham,Penwortham 
+Wardleworth (33 kV / 6.6 kV),"390339.0","414050.0",Primary,33 kV / 6.6,Belfield,Rochdale
+Warton (33 kV / 6.6 kV),"341290.0","428540.0",Primary,33 kV / 6.6,Peel,Penwortham 
+Waterhead (33 kV / 6.6 kV),"394942.0","405940.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+Waterswallows (33 kV / 11 kV),"407734.0","375459.0",Primary,33 kV / 11,Buxton,Stalybridge
+Weaste (33 kV / 6.6 kV),"378751.0","398897.0",Primary,33 kV / 6.6,Frederick Rd,Kearsley
+Werneth (33 kV / 6.6 kV),"391273.0","403453.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+Wesley Place Bacup (33 kV / 6.6 kV),"386475.0","422130.0",Primary,33 kV / 6.6,Rossendale,Padiham
+West Didsbury (33 kV / 6.6 kV),"383306.0","392514.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Westgate (33 kV / 6.6 kV),"343077.0","463204.0",Primary,33 kV / 6.6,Lancaster,Heysham
+Westhoughton (33 kV / 11 kV),"365831.0","407025.0",Primary,33 kV / 11,Westhoughton,Kearsley
+Westlinton (33 kV / 11 kV),"339551.0","564489.0",Primary,33 kV / 11,Carlisle,Harker
+Whalley (33 kV / 11 kV),"373376.0","436176.0",Primary,33 kV / 11,Padiham,Padiham
+Whalley Range (33 kV / 6.6 kV),"382923.0","394645.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Whasset (33 kV / 11 kV),"350648.0","481468.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Whittle Le Woods (33 kV / 11 kV),"357874.0","421203.0",Primary,33 kV / 11,Leyland,Penwortham 
+Whitworth (33 kV / 6.6 kV),"388779.0","419157.0",Primary,33 kV / 6.6,Rochdale Central,Rochdale
+Wigton (33 kV / 11 kV),"325814.0","549933.0",Primary,33 kV / 11,Carlisle,Harker
+Willow Hey (33 kV / 11 kV),"347779.0","406066.0",Primary,33 kV / 11,Skelmersdale,Washway Farm
+Willowbank (33 kV / 6.6 kV),"391885.0","406064.0",Primary,33 kV / 6.6,Greenhill,Whitegate
+Willowholme (33 kV / 11 kV),"338653.0","556688.0",Primary,33 kV / 11,Carlisle,Harker
+Wilmslow (33 kV / 11 kV),"384710.0","381286.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Windermere (33 kV / 11 kV),"341657.0","498418.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
+Winifred Rd (33 kV / 6.6 kV),"389971.0","388470.0",Primary,33 kV / 6.6,Adswood,Bredbury
+Withington (33 kV / 6.6 kV),"384841.0","392774.0",Primary,33 kV / 6.6,West Didsbury,South Manchester
+Withyfold Drive (33 kV / 11 kV),"392132.0","374352.0",Primary,33 kV / 11,Macclesfield,Macclesfield
+Woodbine St (33 kV / 6.6 kV),"390519.0","412388.0",Primary,33 kV / 6.6,Castleton,Rochdale
+Woodfield Rd (33 kV / 11 kV),"358258.0","418014.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Woodhill Lane (33 kV / 6.6 kV),"343294.0","463785.0",Primary,33 kV / 6.6,Lancaster,Heysham
+Woodhouse Park (33 kV / 11 kV),"382132.0","386340.0",Primary,33 kV / 11,Moss Nook,South Manchester
+Woodley (33 kV / 11 kV),"393116.0","392019.0",Primary,33 kV / 11,Vernon Park,Bredbury
+Woolfold (33 kV / 11 kV),"378874.0","411666.0",Primary,33 kV / 11,Bury,Kearsley
+Wordsworth St (33 kV / 6.6 kV),"370709.0","410873.0",Primary,33 kV / 6.6,Bolton,Kearsley
+Worsley Mesnes (33 kV / 6.6 kV),"357435.0","403977.0",Primary,33 kV / 6.6,Wigan,Kirkby
+Wrightington (33 kV / 11 kV),"353466.0","413290.0",Primary,33 kV / 11,Wrightington,Penwortham 
+Yealand (33 kV / 11 kV),"351537.0","475934.0",Primary,33 kV / 11,Kendal (Parkside Rd),Hutton
