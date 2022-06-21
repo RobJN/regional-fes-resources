@@ -6,11 +6,12 @@ This related to the ETYS Spatial Demand data. After the data has been dowloaded/
 ## Process
 You first need to collate the inputs in the Inputs folder.
 
-| Filename   | From spreadsheet | From SAS script            |
+| Filename   | From spreadsheet | From SAS script/Python Notebook            |
 | ---------- | ---------------- | -------------------------- |
 | active.csv | Active worksheet | Write_ETYS-Demands-CSV.sas |
-| dg.csv     | DG worksheet     | CalcDGSplit.sas            |
-| sub1MW.csv | sub1MW worksheet | CalcMicroSplit.sas         |
+| dg.csv     | DG worksheet     | CalcDGSplit.ipynb          |
+| sub1MW.csv | sub1MW worksheet | CalcMicroSplit.ipynb       |
+| DSR.csv    | ?                | ?                          |
 
 Next open and run the python notebook Read-ETYS-Spatial.ipynb. This automatically creates all the output CSVs ready for the regional fes visualisation.
 
